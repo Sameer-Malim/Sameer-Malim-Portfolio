@@ -1,6 +1,9 @@
 html{
   scroll-behavior: smooth;
 }
+*{
+  outline: 2px solid red;
+}
 body{
   height: 55rem;
   margin: 0;
