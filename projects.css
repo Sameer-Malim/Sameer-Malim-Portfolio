@@ -197,9 +197,9 @@ body{
 }
 
 /* xs */
-@media (max-width: 475px) {
+@media (max-width: 425px) {
   .main-header a, .main-header h3{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
   .projects{
     margin-top: 4.4%;
