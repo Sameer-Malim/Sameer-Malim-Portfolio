@@ -199,6 +199,9 @@ body{
 
 /* xs */
 @media (max-width: 425px) {
+  .sect-1-content{
+    height: fit-content;
+  }
   .main-header a, .main-header h3{
     font-size: 1.2rem;
   }
