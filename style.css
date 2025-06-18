@@ -815,7 +815,11 @@ nav ul li a:hover::after {
   .education-logo{
     width: 40%;
   }
+  .project-button{
+    margin-top: 5%;
+  }
 }
+
 
 /* === Responsibve chrome === */
 @media (max-width: 375px) {
