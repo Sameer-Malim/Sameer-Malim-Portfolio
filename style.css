@@ -778,7 +778,7 @@ nav ul li a:hover::after {
   }
 }
 /* xs */
-@media (max-width: 475px) {
+@media (max-width: 425px) {
   nav ul{
     padding: 0;
   }
@@ -802,8 +802,8 @@ nav ul li a:hover::after {
     height: 120px;
   }
   .skills-container{
-    grid-template-columns: repeat(2, 5fr);
-    gap: 50px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
   }
   .skill-header{
     font-size: 0.6rem;
